@@ -1,3 +1,7 @@
 venv/
 spi/
 .vscode/
+**/__pycache__/
+build/
+env/
+.idea/
